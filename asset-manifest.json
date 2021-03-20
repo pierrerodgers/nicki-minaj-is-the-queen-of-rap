@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/nicki-minaj-is-the-queen-of-rap/static/css/main.b3e7050b.chunk.css",
+    "main.js": "/nicki-minaj-is-the-queen-of-rap/static/js/main.a031ef89.chunk.js",
+    "main.js.map": "/nicki-minaj-is-the-queen-of-rap/static/js/main.a031ef89.chunk.js.map",
+    "runtime-main.js": "/nicki-minaj-is-the-queen-of-rap/static/js/runtime-main.cca0ed20.js",
+    "runtime-main.js.map": "/nicki-minaj-is-the-queen-of-rap/static/js/runtime-main.cca0ed20.js.map",
+    "static/js/2.7cc2c675.chunk.js": "/nicki-minaj-is-the-queen-of-rap/static/js/2.7cc2c675.chunk.js",
+    "static/js/2.7cc2c675.chunk.js.map": "/nicki-minaj-is-the-queen-of-rap/static/js/2.7cc2c675.chunk.js.map",
+    "static/js/3.0713f208.chunk.js": "/nicki-minaj-is-the-queen-of-rap/static/js/3.0713f208.chunk.js",
+    "static/js/3.0713f208.chunk.js.map": "/nicki-minaj-is-the-queen-of-rap/static/js/3.0713f208.chunk.js.map",
+    "static/js/4.f47e86b3.chunk.js": "/nicki-minaj-is-the-queen-of-rap/static/js/4.f47e86b3.chunk.js",
+    "static/js/4.f47e86b3.chunk.js.map": "/nicki-minaj-is-the-queen-of-rap/static/js/4.f47e86b3.chunk.js.map",
+    "index.html": "/nicki-minaj-is-the-queen-of-rap/index.html",
+    "static/css/main.b3e7050b.chunk.css.map": "/nicki-minaj-is-the-queen-of-rap/static/css/main.b3e7050b.chunk.css.map",
+    "static/js/2.7cc2c675.chunk.js.LICENSE.txt": "/nicki-minaj-is-the-queen-of-rap/static/js/2.7cc2c675.chunk.js.LICENSE.txt",
+    "static/js/3.0713f208.chunk.js.LICENSE.txt": "/nicki-minaj-is-the-queen-of-rap/static/js/3.0713f208.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nicki-minaj-is-the-queen-of-rap/static/media/Xero's Punishment.66832477.otf",
+    "static/media/bigboobs.904176ab.mp3": "/nicki-minaj-is-the-queen-of-rap/static/media/bigboobs.904176ab.mp3",
+    "static/media/logo.6ce24c58.svg": "/nicki-minaj-is-the-queen-of-rap/static/media/logo.6ce24c58.svg",
+    "static/media/nicki-minaj.ccc1f4cf.png": "/nicki-minaj-is-the-queen-of-rap/static/media/nicki-minaj.ccc1f4cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca0ed20.js",
+    "static/js/2.7cc2c675.chunk.js",
+    "static/css/main.b3e7050b.chunk.css",
+    "static/js/main.a031ef89.chunk.js"
+  ]
+}
